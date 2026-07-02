@@ -1,484 +1,200 @@
-Même les pigeons semblent avoir un meilleur plan.
-Le ridicule prend des notes en te regardant.
-Les mauvaises idées te considèrent comme une référence.
-Le bon sens prend un jour de congé à chaque apparition.
-Les virages sont plus droits que ton raisonnement.
-Même les détours gagnent du temps.
-La confusion t'applaudit debout.
-Les problèmes te remercient pour ton soutien.
-Les solutions changent de direction.
-Les catastrophes te trouvent excessif.
-Le calme abandonne la partie.
-Le doute devient une certitude.
-Les excuses arrivent avant les résultats.
-Le talent a raté son arrêt.
-La chance fait semblant de ne pas te connaître.
-Les coïncidences refusent d'être associées.
-Même les imprévus étaient mieux préparés.
-Le chaos demande un peu plus de méthode.
-Les complications deviennent des formalités.
-Le vide paraît bien rempli.
-Les murs décrochent plus vite.
-Les plafonds semblent captivés.
-Les fenêtres préfèrent rester fermées.
-Les portes songent à changer de serrure.
-Les poignées hésitent à coopérer.
-Les tapis roulants prennent de l'avance.
-Les escalators montent avec plus d'assurance.
-Les ascenseurs soupirent avant d'arriver.
-Les roues grincent par solidarité.
-Les freins prennent peur.
-Les klaxons sonnent d'eux-mêmes.
-Les feux tricolores perdent leurs couleurs.
-Les panneaux routiers demandent leur mutation.
-Les ronds-points deviennent des labyrinthes.
-Les parkings semblent mieux organisés.
-Les embouteillages paraissent fluides.
-Les détours raccourcissent le trajet.
-Les impasses respirent l'optimisme.
-Les raccourcis deviennent des expéditions.
-Les cartes routières abandonnent la mission.
-Les boussoles réclament une mise à jour.
-Les GPS proposent des vacances.
-Les satellites coupent la connexion.
-Les antennes baissent les bras.
-Les radios cherchent une autre fréquence.
-Les télécommandes changent de propriétaire.
-Les écrans baissent la luminosité.
-Les claviers réclament une pause.
-Les souris changent de tapis.
-Les imprimantes affichent leur droit de grève.
-Les scanners refusent de voir ça.
-Les webcams ferment les yeux.
-Les micros coupent le son par précaution.
-Les haut-parleurs baissent le volume.
-Les écouteurs cherchent une autre oreille.
-Les batteries préfèrent rester à plat.
-Les chargeurs démissionnent.
-Les câbles se nouent tout seuls.
-Les prises murales prennent leurs distances.
-Les ampoules demandent à rester éteintes.
-Les interrupteurs perdent la motivation.
-Les ventilateurs brassent davantage d'idées.
-Les climatiseurs demandent un manteau.
-Les radiateurs prennent des vacances.
-Les horloges ralentissent volontairement.
-Les calendriers sautent des jours.
-Les agendas se vident.
-Les stylos refusent de signer.
-Les crayons cassent la mine.
-Les gommes abandonnent toute tentative.
-Les cahiers ferment leurs pages.
-Les livres changent de chapitre.
-Les dictionnaires ajoutent le mot « pourquoi ».
-Les calculatrices affichent des points d'interrogation.
-Les tableaux blancs restent blancs.
-Les marqueurs sèchent par anticipation.
-Les règles perdent toute mesure.
-Les compas dessinent des carrés.
-Les ciseaux demandent une reconversion.
-Les colles ne veulent plus rien assembler.
-Les enveloppes refusent le courrier.
-Les timbres changent de continent.
-Les boîtes aux lettres se cachent.
-Les parapluies attendent le soleil.
-Les lunettes ferment les verres.
-Les miroirs prennent un jour de repos.
-Les réveils reportent l'heure.
-Les oreillers cherchent le sommeil ailleurs.
-Les couvertures préfèrent le canapé.
-Les canapés semblent plus productifs.
-Les chaises donnent des leçons d'équilibre.
-Les tables paraissent plus inspirées.
-Les placards ferment la porte à clé.
-Les tiroirs restent coincés par principe.
-Les frigos perdent l'appétit.
-Les congélateurs demandent une couverture.
-Les fours réclament un ventilateur.
-Les casseroles changent de cuisinier.
-Les assiettes tournent les talons.
-Les verres se vident d'eux-mêmes.
-Les couverts prennent la fuite.
-Même un réveil cassé fait mieux que ça.
-On dirait qu'une mauvaise idée a appris à marcher.
-Le hasard ferait des choix plus intelligents.
-La logique demande encore des nouvelles.
-Les bugs te remercient pour la concurrence.
-Le mode d'emploi t'a abandonné dès la première page.
-Le chaos te trouve désorganisé.
-La patience démissionne à ton approche.
-Les raccourcis deviennent plus longs avec toi.
-Le silence est souvent ta meilleure intervention.
-Les évidences prennent des congés quand tu arrives.
-Le bon sens change de trottoir.
-Les statistiques n'avaient pas prévu un cas pareil.
-Le destin a dû cliquer sur le mauvais bouton.
-Même un GPS sans batterie trouverait une meilleure direction.
-Les escargots trouvent ton rythme ambitieux.
-Le Wi-Fi capte mieux dans une grotte qu'à côté de toi.
-Le bouton « Annuler » manque à tout le monde.
-Les portes automatiques hésitent avant de s'ouvrir.
-Même les échos refusent de répéter certaines de tes idées.
-Les cactus paraissent accueillants en comparaison.
-Les murs ont des conversations plus intéressantes.
-Le vide semble profond jusqu'à ce qu'on t'écoute.
-Les girouettes paraissent cohérentes à côté de toi.
-Même un labyrinthe sait où il va.
-Les puzzles incomplets semblent mieux organisés.
-Le hasard fait rarement pire.
-Les détours sont plus efficaces.
-Les impasses ont davantage d'avenir.
-Les coïncidences sont mieux préparées.
-Les brouillons paraissent aboutis.
-Même les erreurs ont plus de potentiel.
-Les réveils du lundi sont plus appréciés.
-Les réunions inutiles paraissent passionnantes.
-Les batteries à 1 % inspirent plus confiance.
-Les imprimantes sont plus coopératives.
-Les chaussettes dépareillées ont plus de style.
-Les feux rouges sont plus motivants.
-Les miroirs hésitent à te refléter.
-Les calculatrices affichent « erreur » par solidarité.
-Les claviers soupirent à chaque frappe.
-Les souris d'ordinateur tentent de s'enfuir.
-Les ventilateurs brassent plus d'idées.
-Les cactus offrent plus de réconfort.
-Les statues paraissent plus expressives.
-Les portes grincent avec plus de charisme.
-Les fantômes semblent plus présents.
-Les ombres sont plus lumineuses.
-Les nuages ont davantage de clarté.
-Les brouillards expliquent mieux les choses.
-Les panneaux « sens interdit » sont plus accueillants.
-Les parkings complets sont plus accessibles.
-Les labyrinthes donnent de meilleures indications.
-Les notices en dix langues sont plus simples à suivre.
-Les puzzles de mille pièces avancent plus vite.
-Les horloges arrêtées sont plus ponctuelles.
-Les feux d'artifice mouillés impressionnent davantage.
-Les glaçons dégagent plus de chaleur.
-Les bananes ont plus d'adhérence.
-Les cailloux font preuve de plus de souplesse.
-Les tortues accélèrent le rythme.
-Les limaces donnent une impression de vitesse.
-Les poissons rouges retiennent mieux les informations.
-Les plantes en plastique respirent mieux l'ambiance.
-Les chaises bancales sont plus stables.
-Les roues carrées roulent avec plus d'assurance.
-Les boomerangs perdus retrouvent mieux leur chemin.
-Les parapluies percés inspirent davantage confiance.
-Les cartes sans légende sont plus utiles.
-Les boussoles cassées sont plus fiables.
-Les montagnes russes paraissent reposantes.
-Les réveils oubliés sont plus efficaces.
-Les chaussons ont davantage d'ambition.
-Les moustiques sont plus discrets.
-Les pigeons ont un meilleur sens de l'orientation.
-Les mouettes volent avec plus d'élégance.
-Les canards gardent mieux leur sérieux.
-Les chèvres paraissent plus prudentes.
-Les pingouins semblent plus à l'aise dans le désert.
-Les chameaux nagent probablement mieux.
-Les poissons montent mieux aux arbres.
-Les nuages prennent de meilleures décisions.
-Les volcans sont plus calmes.
-Les tempêtes sont plus reposantes.
-Les tornades paraissent organisées.
-Les éclairs sont plus prévisibles.
-Les éclipses sont plus lumineuses.
-Les lunes ont davantage de répartie.
-Les étoiles scintillent avec plus de conviction.
-Les météorites font moins de dégâts.
-Les satellites perdent moins souvent le signal.
-Les robots passent pour des improvisateurs.
-Les calculs mentaux respirent mieux.
-Les dictionnaires manquent moins de vocabulaire.
-Les livres fermés racontent plus d'histoires.
-Les bibliothèques font plus de bruit.
-Les chaussettes dans la machine à laver se perdent avec plus de dignité.
-Les toasts tombent du bon côté plus souvent.
-Les ascenseurs en panne avancent plus vite.
-Les files d'attente semblent plus courtes.
-Les bouchons donnent une meilleure impression d'efficacité.
-Même les fourmis semblent mieux organisées.
-Les moustiques rendent davantage service.
-Les mouches trouvent ton sens de l'orientation discutable.
-Les abeilles produisent plus d'idées que toi en une journée.
-Les escargots dépassent tes projets.
-Les limaces donnent une impression d'efficacité.
-Les tortues trouvent que tu prends ton temps.
-Les poissons rouges gardent une meilleure mémoire.
-Les poulpes paraissent moins confus.
-Les crabes avancent plus droit.
-Les pingouins semblent plus à l'aise sous les tropiques.
-Les chameaux nagent avec plus de grâce.
-Les autruches affrontent mieux les problèmes.
-Les paresseux bouclent leurs objectifs plus vite.
-Les pandas donnent une impression de dynamisme.
-Les koalas paraissent survoltés.
-Les chats ignorent les gens avec plus d'élégance.
-Les chiens comprennent plus vite les sous-entendus.
-Les moutons prennent de meilleures initiatives.
-Les chèvres improvisent avec davantage de succès.
-Les vaches semblent plus stratégiques.
-Les poules élaborent des plans plus solides.
-Les canards affichent plus de prestance.
-Les dindons paraissent plus subtils.
-Les pigeons respirent davantage de charisme.
-Les mouettes sont plus discrètes.
-Les corbeaux racontent de meilleures histoires.
-Les hiboux restent plus éveillés.
-Les chauves-souris voient plus clair.
-Les grenouilles font preuve de plus de finesse.
-Les crocodiles inspirent davantage confiance.
-Les lézards semblent plus ambitieux.
-Les serpents tournent moins autour du pot.
-Les hérissons ont un meilleur sens du contact.
-Les castors gèrent mieux les chantiers.
-Les écureuils planifient davantage.
-Les lapins paniquent avec plus de méthode.
-Les renards improvisent mieux.
-Les loups coopèrent plus efficacement.
-Les ours paraissent plus délicats.
-Les éléphants oublient moins de choses.
-Les girafes gardent mieux les pieds sur terre.
-Les rhinocéros sont plus discrets.
-Les hippopotames semblent plus légers.
-Les zèbres font des choix plus simples.
-Les flamants roses tiennent mieux l'équilibre.
-Les paons se montrent avec plus de modestie.
-Les méduses donnent l'impression de réfléchir davantage.
-Les étoiles de mer paraissent plus réactives.
-Les coquillages ont davantage de conversation.
-Les cailloux montrent plus d'initiative.
-Les montagnes changent plus souvent d'avis.
-Les volcans gardent mieux leur calme.
-Les glaciers avancent plus vite.
-Les déserts semblent plus accueillants.
-Les forêts paraissent mieux rangées.
-Les rivières savent où elles vont.
-Les cascades hésitent moins.
-Les vagues sont plus constantes.
-Les tempêtes restent plus prévisibles.
-Les tornades paraissent plus raisonnables.
-Les éclairs prennent plus leur temps.
-Les nuages affichent davantage de clarté.
-Les brouillards expliquent mieux les choses.
-Les ombres attirent plus l'attention.
-Les échos ont plus d'imagination.
-Les silences disent davantage.
-Les soupirs sont plus convaincants.
-Les bâillements montrent plus d'enthousiasme.
-Les applaudissements enregistrés semblent plus sincères.
-Les feux d'artifice ratés impressionnent davantage.
-Les bougies soufflées brillent plus longtemps.
-Les allumettes mouillées sont plus utiles.
-Les glaçons dégagent plus de chaleur.
-Les ventilateurs brassent plus de nouveautés.
-Les courants d'air ont plus de personnalité.
-Les portes automatiques prennent de meilleures décisions.
-Les fenêtres ouvertes offrent plus de réflexion.
-Les rideaux cachent mieux le malaise.
-Les tapis accueillent mieux les visiteurs.
-Les escaliers montent plus facilement.
-Les ascenseurs comprennent mieux les priorités.
-Les couloirs semblent moins perdus.
-Les plafonds inspirent plus d'idées.
-Les murs soutiennent mieux une discussion.
-Les poignées ouvrent davantage d'opportunités.
-Les serrures font preuve de plus de souplesse.
-Les clés savent mieux où elles vont.
-Les cadenas sont plus ouverts d'esprit.
-Les boîtes en carton affichent plus de solidité.
-Les sacs plastiques montrent plus de résistance.
-Les valises voyagent avec plus de style.
-Les cintres portent mieux leurs responsabilités.
-Les armoires gardent mieux les secrets.
-Les tiroirs cachent mieux leurs erreurs.
-Les étagères supportent davantage de poids.
-Les bibliothèques respirent plus d'aventure.
-Les dictionnaires semblent plus créatifs.
-Les encyclopédies improvisent avec plus de talent.
-Les idées se perdent avant même d’arriver à destination.
-Les décisions arrivent toujours après le moment utile.
-Les solutions apparaissent comme des problèmes déguisés.
-Les erreurs se répètent avec une régularité impressionnante.
-Les explications compliquent systématiquement ce qui était simple.
-Les raccourcis deviennent des détours involontaires.
-Les priorités changent sans logique apparente.
-Les réponses arrivent quand la question a disparu.
-Les problèmes s’accumulent sans coordination.
-Les intuitions choisissent toujours le mauvais moment.
-Les efforts se dispersent dans toutes les directions possibles.
-Les résultats évitent soigneusement les attentes.
-Les tentatives réussissent à échouer avec style.
-Les plans s’effondrent avant la première étape.
-Les stratégies oublient leur objectif initial.
-Les discussions tournent en boucle sans progression.
-Les idées brillantes perdent leur éclat en route.
-Les projets s’arrêtent au stade de l’intention.
-Les promesses s’éloignent de la réalité.
-Les explications arrivent trop tard ou trop tôt.
-Les gestes simples deviennent des opérations complexes.
-Les chemins droits finissent en labyrinthes.
-Les solutions évidentes passent inaperçues.
-Les bonnes intentions se perdent dans la traduction.
-Les efforts bien placés manquent systématiquement leur cible.
-Les réactions arrivent après la bataille.
-Les corrections créent de nouveaux problèmes.
-Les améliorations dégradent le résultat initial.
-Les choix simples deviennent des dilemmes inutiles.
-Les décisions rapides prennent des détours interminables.
-Les actions urgentes sont reportées sans raison.
-Les explications claires deviennent incompréhensibles.
-Les résultats attendus changent de forme en route.
-Les erreurs mineures deviennent des catastrophes complètes.
-Les solutions temporaires deviennent permanentes.
-Les ajustements cassent ce qui fonctionnait encore.
-Les idées simples sont transformées en casse-têtes.
-Les concepts clairs se brouillent rapidement.
-Les logiques élémentaires se compliquent sans effort.
-Les intuitions fiables disparaissent au mauvais moment.
-Les réponses correctes sont ignorées par principe.
-Les questions faciles deviennent des énigmes inutiles.
-Les évidences sont systématiquement remises en question.
-Les choix rationnels sont écartés sans justification.
-Les alternatives efficaces ne sont jamais testées.
-Les méthodes simples sont remplacées par des systèmes lourds.
-Les outils utiles restent inutilisés.
-Les ressources disponibles sont mal exploitées.
-Les opportunités passent sans être remarquées.
-Les chances favorables sont systématiquement manquées.
-Les signaux clairs sont interprétés de travers.
-Les instructions simples sont transformées en casse-tête.
-Les consignes précises sont suivies à moitié.
-Les résultats logiques sont contestés sans raison.
-Les évidences sont traitées comme des mystères.
-Les problèmes connus sont redécouverts à chaque fois.
-Les solutions éprouvées sont ignorées par habitude.
-Les erreurs évitables deviennent des traditions.
-Les habitudes inefficaces persistent avec constance.
-Les méthodes dépassées sont défendues avec conviction.
-Les systèmes fragiles sont maintenus sans question.
-Les processus inefficaces sont reproduits fidèlement.
-Les routines inutiles deviennent indispensables.
-Les complexités inutiles sont ajoutées volontairement.
-Les simplifications sont rejetées par principe.
-Les améliorations sont perçues comme des menaces.
-Les changements utiles sont retardés indéfiniment.
-Les innovations sont accueillies avec méfiance.
-Les idées neuves sont abandonnées trop vite.
-Les bonnes pratiques sont oubliées régulièrement.
-Les erreurs passées sont reproduites avec précision.
-Les avertissements sont ignorés systématiquement.
-Les signaux d’alerte passent inaperçus.
-Les conséquences prévisibles sont découvertes trop tard.
-Les solutions efficaces sont remplacées sans raison.
-Les décisions logiques sont évitées par réflexe.
-Les choix raisonnables sont considérés comme suspects.
-Les explications cohérentes sont jugées trop simples.
-Les résultats attendus deviennent exceptionnels par hasard.
-Les réussites sont interprétées comme des accidents.
-Tu es une fusée qui demande son chemin.
-Tu es un bateau qui a le mal de mer.
-Tu es une ancre en polystyrène.
-Tu es un sous-marin qui oublie de plonger.
-Tu es un phare qui éclaire les mouettes.
-Tu es une bouée qui coule.
-Tu es une rame en chocolat.
-Tu es une voile sans vent.
-Tu es un capitaine perdu sur une carte postale.
-Tu es une boussole qui suit les pigeons.
-Tu es une tempête dans un verre d'eau.
-Tu es une flaque qui se prend pour un océan.
-Tu es un nuage qui oublie de pleuvoir.
-Tu es un arc-en-ciel en noir et blanc.
-Tu es une étoile filante qui fait demi-tour.
-Tu es une comète en retard.
-Tu es une planète hors orbite.
-Tu es un satellite sans signal.
-Tu es un télescope tourné vers le mur.
-Tu es une éclipse sans spectacle.
-Tu es un volcan sans lave.
-Tu es un désert sous la pluie.
-Tu es une montagne en carton.
-Tu es une vallée sans écho.
-Tu es un arbre en plastique.
-Tu es une forêt avec un seul arbre.
-Tu es une feuille qui tombe vers le haut.
-Tu es une fleur allergique au soleil.
-Tu es un cactus qui demande de l'eau toutes les cinq minutes.
-Tu es une rivière qui tourne en rond.
-Tu es une cascade au ralenti.
-Tu es une pierre qui trébuche.
-Tu es un caillou qui veut être un rocher.
-Tu es un grain de sable qui fait la morale à la plage.
-Tu es un coquillage sans mer.
-Tu es une perle en pâte à modeler.
-Tu es un trésor en coupons de réduction expirés.
-Tu es une carte au trésor sans trésor.
-Tu es une énigme dont personne ne cherche la solution.
-Tu es une victoire par forfait.
-Tu es une médaille en carton.
-Tu es un trophée de participation à un concours imaginaire.
-Tu es un champion du presque.
-Tu es une légende dans ton propre salon.
-Tu es un héros de la file d'attente.
-Tu es un expert en erreurs évitables.
-Tu es un spécialiste des mauvaises idées.
-Tu es un professionnel de l'improvisation ratée.
-Tu es un record du monde de la confusion.
-Tu es une démonstration de ce qu'il ne faut pas faire.
-Tu es un manuel d'utilisation incomplet.
-Tu es un mode d'emploi traduit par hasard.
-Tu es un autocorrecteur qui empire les phrases.
-Tu es une faute de frappe avec de l'assurance.
-Tu es un point d'interrogation permanent.
-Tu es une parenthèse jamais refermée.
-Tu es une virgule au mauvais endroit.
-Tu es un brouillon sauvegardé par erreur.
-Tu es un document corrompu.
-Tu es un fichier temporaire devenu permanent.
-Tu es une corbeille pleine d'idées.
-Tu es un raccourci vers nulle part.
-Tu es un favori oublié.
-Tu es un historique embarrassant.
-Tu es un onglet qu'on ferme par réflexe.
-Tu es une fenêtre qui s'ouvre toute seule.
-Tu es un curseur qui disparaît au pire moment.
-Tu es une barre de chargement sans fin.
-Tu es une sauvegarde qui échoue à 99 %.
-Tu es un redémarrage obligatoire.
-Tu es une erreur inattendue... mais répétitive.
-Tu es un bug devenu tradition.
-Tu es un problème qui se croit solution.
-Tu es une complication avec des chaussures.
-Tu es un détour sur une ligne droite.
-Tu es une réponse hors sujet.
-Tu es une question sans intérêt.
-Tu es un silence gênant qui parle.
-Tu es un applaudissement solitaire.
-Tu es une standing ovation de personne.
-Tu es une fête sans invités.
-Tu es une surprise annoncée.
-Tu es un secret crié au mégaphone.
-Tu es une promesse sans lendemain.
-Tu es un rendez-vous oublié.
-Tu es un retard avec de l'avance.
-Tu es un lundi déguisé en vendredi.
-Tu es une sieste interrompue.
-Tu es un réveil après trois heures de sommeil.
-Tu es une file de caisse qui n'avance jamais.
-Tu es un ticket perdu juste avant ton tour.
-Tu es un chariot avec une roue bloquée.
-Tu es un sac plastique percé.
-Tu es un parapluie laissé à la maison le seul jour où il pleut.
-Tu es une chaussette orpheline.
-Tu es une fermeture Éclair qui se rebelle.
-Tu es un lacet qui se défait tous les dix pas.
-Tu es une chaussure qui couine dans une bibliothèque.
-Tu es un bouton qui tombe dès le premier jour.
-Tu es une étiquette qui ne s'enlève jamais.
-Tu es un autocollant collé de travers.
-Tu es une porte automatique qui ne détecte personne.
-Tu es un détecteur de mouvement qui ignore tout.
+Le cerveau humain moyen pèse 1,3 kg. le tien doit être en dessous de la moyenne.
+Le cerveau humain moyen pèse 1,3 kg. au moins la balance ne ment pas sur toi non plus.
+Le cerveau humain moyen pèse 1,3 kg. on dirait que le tien a sauté quelques grammes de matière grise.
+Le cerveau humain moyen pèse 1,3 kg. le tien a dû fondre en cours de partie.
+Un poisson rouge a une mémoire de 3 secondes. toi t'as en plus l'excuse d'avoir un cerveau et tu l'utilises pas.
+Un poisson rouge a une mémoire de 3 secondes. vous devez bien vous entendre tous les deux.
+Un poisson rouge a une mémoire de 3 secondes. au moins lui il a une excuse biologique.
+Un poisson rouge a une mémoire de 3 secondes. toi t'oublies même la syllabe pendant que tu la tapes.
+La vitesse de la lumière est de 300 000 km par seconde. ta réflexion, elle, n'a jamais quitté le point de départ.
+La vitesse de la lumière est de 300 000 km par seconde. tes doigts sur le clavier avancent clairement pas à cette vitesse-là.
+La vitesse de la lumière est de 300 000 km par seconde. ton mot, lui, met plutôt une éternité à arriver.
+La vitesse de la lumière est de 300 000 km par seconde. même elle serait en retard pour attendre ta réponse.
+Un escargot avance à 0,03 km/h. c'est encore plus vite que ton dernier mot trouvé.
+Un escargot avance à 0,03 km/h. il te battrait sûrement au chrono ce round.
+Un escargot avance à 0,03 km/h. lui au moins il finit par arriver quelque part.
+Un escargot avance à 0,03 km/h. votre vitesse de réflexion doit être assez proche, en fait.
+Le Wi-Fi a été inventé en 1997. ton niveau de jeu, lui, semble coincé bien avant ça.
+Le Wi-Fi a été inventé en 1997. ta connexion neuronale à toi doit dater d'encore plus loin.
+Le Wi-Fi a été inventé en 1997. on dirait que t'as jamais reçu la mise à jour depuis.
+Le Wi-Fi a été inventé en 1997. au moins lui il capte quelque chose, contrairement à toi.
+Un octopus a trois cœurs. toi t'en as visiblement aucun pour ce jeu.
+Un octopus a trois cœurs. faut croire que t'en gardais aucun pour la culture générale.
+Un octopus a trois cœurs. trois cœurs et toujours plus de répartie que toi.
+Un octopus a trois cœurs. lui au moins il a de quoi se motiver, contrairement à toi.
+La Terre tourne à 1 670 km/h à l'équateur. toi tu tournes juste en rond sans jamais avancer.
+La Terre tourne à 1 670 km/h à l'équateur. ta réflexion, elle, reste statique pendant ce temps-là.
+La Terre tourne à 1 670 km/h à l'équateur. au moins elle elle sait où elle va, contrairement à toi.
+La Terre tourne à 1 670 km/h à l'équateur. ton cerveau, lui, doit tourner un peu plus lentement que ça.
+Le point d'ébullition de l'eau est 100°C au niveau de la mer. ton skill, lui, n'atteint jamais ce point-là.
+Le point d'ébullition de l'eau est 100°C au niveau de la mer. ta motivation à chercher un mot, elle, reste plutôt tiède.
+Le point d'ébullition de l'eau est 100°C au niveau de la mer. toi t'as jamais dépassé la température ambiante niveau réflexion.
+Le point d'ébullition de l'eau est 100°C au niveau de la mer. au moins elle elle finit par bouillir, ton cerveau lui non.
+99% de l'ADN humain est identique entre deux individus. le 1% qui te reste a dû se perdre en route.
+99% de l'ADN humain est identique entre deux individus. c'est probablement dans ce 1% que se cachait ton vocabulaire.
+99% de l'ADN humain est identique entre deux individus. on dirait que t'as hérité que du mauvais pourcentage.
+99% de l'ADN humain est identique entre deux individus. le 1% restant explique sûrement pourquoi tu joues comme ça.
+Un octet fait 8 bits. ton QI a dû s'arrondir vers le bas pour rentrer dedans.
+Un octet fait 8 bits. ta réponse, elle, tiendrait même pas sur un seul bit.
+Un octet fait 8 bits. faut croire que t'as perdu quelques bits en route.
+Un octet fait 8 bits. même un octet a plus de contenu utile que ta dernière tentative.
+La Lune s'éloigne de 3,8 cm par an de la Terre. ton niveau, lui, ne bouge pas d'un centimètre depuis le début.
+La Lune s'éloigne de 3,8 cm par an de la Terre. à ce rythme-là au moins elle progresse, contrairement à toi.
+La Lune s'éloigne de 3,8 cm par an de la Terre. ta vitesse de progression doit être encore plus lente que ça.
+La Lune s'éloigne de 3,8 cm par an de la Terre. elle s'éloigne moins vite que toi de la victoire.
+Le corps humain contient environ 37 000 milliards de cellules. aucune n'a l'air de gérer le vocabulaire chez toi.
+Le corps humain contient environ 37 000 milliards de cellules. et pourtant aucune n'a pensé à te souffler un mot correct.
+Le corps humain contient environ 37 000 milliards de cellules. ça fait beaucoup de cellules pour un résultat aussi pauvre.
+Le corps humain contient environ 37 000 milliards de cellules. on dirait qu'elles bossent toutes sauf celles du langage.
+Un clavier QWERTY a été conçu à l'origine pour ralentir la frappe. t'avais clairement pas besoin de ça pour être aussi lent.
+Un clavier QWERTY a été conçu à l'origine pour ralentir la frappe. toi t'as même pas eu besoin d'aide pour ramer autant.
+Un clavier QWERTY a été conçu à l'origine pour ralentir la frappe. même sans ce défaut de conception tu serais aussi lent.
+Un clavier QWERTY a été conçu à l'origine pour ralentir la frappe. le clavier a fait sa part, le reste c'est toi tout seul.
+La vitesse du son est de 343 m/s dans l'air. tes excuses, elles, arrivent encore plus vite que ça.
+La vitesse du son est de 343 m/s dans l'air. dommage que ta réponse, elle, voyage pas à cette vitesse-là.
+La vitesse du son est de 343 m/s dans l'air. au moins le son va plus vite que ta réflexion.
+La vitesse du son est de 343 m/s dans l'air. tes explications bidon arrivent toujours avant le bon mot.
+Un an-lumière fait environ 9 460 milliards de km. c'est à peu près la distance qui te sépare d'un bon mot.
+Un an-lumière fait environ 9 460 milliards de km. ton vocabulaire doit être quelque part par là, en fait.
+Un an-lumière fait environ 9 460 milliards de km. faudrait à peu près ça pour trouver ta prochaine bonne réponse.
+Un an-lumière fait environ 9 460 milliards de km. même à cette distance-là tu trouverais toujours pas de syllabe.
+Le processeur d'un smartphone actuel dépasse celui d'Apollo 11. ton cerveau, lui, semble encore coincé avant cette mission.
+Le processeur d'un smartphone actuel dépasse celui d'Apollo 11. même Apollo 11 aurait plus vite trouvé un mot que toi.
+Le processeur d'un smartphone actuel dépasse celui d'Apollo 11. ta puissance de calcul a dû rester au sol, elle.
+Le processeur d'un smartphone actuel dépasse celui d'Apollo 11. à ce niveau-là t'es plutôt resté en orbite d'attente.
+Une fourmi peut porter jusqu'à 50 fois son propre poids. toi tu portes surtout mal la défaite.
+Une fourmi peut porter jusqu'à 50 fois son propre poids. elle porte plus de charge que toi de bonnes réponses.
+Une fourmi peut porter jusqu'à 50 fois son propre poids. 50 fois son poids, et toujours plus utile que toi en jeu.
+Une fourmi peut porter jusqu'à 50 fois son propre poids. à ce niveau de force-là, elle jouerait mieux que toi aussi.
+Un octet inutile ajouté à un fichier s'appelle un padding. toi t'es plutôt une réponse inutile en entier.
+Un octet inutile ajouté à un fichier s'appelle un padding. ta dernière tentative, c'était clairement que du remplissage.
+Un octet inutile ajouté à un fichier s'appelle un padding. on dirait bien que t'es le padding de cette partie.
+Un octet inutile ajouté à un fichier s'appelle un padding. même un octet vide sert plus que ton dernier mot.
+Le cœur humain bat environ 100 000 fois par jour. le tien doit chercher un peu d'inspiration entre deux battements.
+Le cœur humain bat environ 100 000 fois par jour. 100 000 battements et toujours pas une seule bonne idée.
+Le cœur humain bat environ 100 000 fois par jour. à ce rythme-là il devrait au moins t'apporter un mot correct.
+Le cœur humain bat environ 100 000 fois par jour. il bat plus vite que ta réflexion n'avance, en tout cas.
+La Voie lactée contient entre 200 et 400 milliards d'étoiles. ton nombre de bons mots trouvés, lui, reste obstinément à zéro.
+La Voie lactée contient entre 200 et 400 milliards d'étoiles. il doit y en avoir plus là-haut que de bonnes réponses chez toi.
+La Voie lactée contient entre 200 et 400 milliards d'étoiles. même avec autant d'étoiles t'arriverais pas à en attraper une seule.
+La Voie lactée contient entre 200 et 400 milliards d'étoiles. ton compteur de victoires ressemble plus à une galaxie vide.
+Un bug jamais corrigé s'appelle une dette technique. toi t'accumules plutôt une dette de vocabulaire.
+Un bug jamais corrigé s'appelle une dette technique. ta dette à toi, elle, s'accumule syllabe après syllabe.
+Un bug jamais corrigé s'appelle une dette technique. au moins un bug corrigé finit par disparaître, toi non.
+Un bug jamais corrigé s'appelle une dette technique. ta dette de bons mots doit être astronomique maintenant.
+Le plus long mot du dictionnaire français fait 25 lettres. le tien, généralement, en fait trois et il est faux.
+Le plus long mot du dictionnaire français fait 25 lettres. toi t'arrives même pas à en placer un dixième de cette taille.
+Le plus long mot du dictionnaire français fait 25 lettres. 25 lettres et toi t'en trouves jamais assez pour un mot correct.
+Le plus long mot du dictionnaire français fait 25 lettres. à ce niveau-là t'es plutôt du genre à en oublier la moitié.
+La caféine met environ 45 minutes à agir sur l'organisme. ton temps de réaction, lui, n'a aucune limite connue.
+La caféine met environ 45 minutes à agir sur l'organisme. même dans 45 minutes tu trouverais toujours pas de mot.
+La caféine met environ 45 minutes à agir sur l'organisme. elle aura le temps d'agir avant que tu trouves quoi que ce soit.
+La caféine met environ 45 minutes à agir sur l'organisme. ton cerveau, lui, doit avoir besoin de bien plus que 45 minutes.
+Un signal Wi-Fi perd en intensité tous les 10 mètres environ. ta répartie, elle, était déjà faible avant même de commencer.
+Un signal Wi-Fi perd en intensité tous les 10 mètres environ. ton niveau, lui, avait déjà perdu tout signal dès le départ.
+Un signal Wi-Fi perd en intensité tous les 10 mètres environ. à 10 mètres il reste plus de signal que de mots chez toi.
+Un signal Wi-Fi perd en intensité tous les 10 mètres environ. même à zéro mètre ta connexion cérébrale capte rien.
+Le corps humain perd environ 500 ml d'eau par jour rien qu'en respirant. t'as dû perdre les neurones au même rythme, apparemment.
+Le corps humain perd environ 500 ml d'eau par jour rien qu'en respirant. à ce rythme-là t'as dû aussi évaporer ton vocabulaire.
+Le corps humain perd environ 500 ml d'eau par jour rien qu'en respirant. 500 ml par jour, et visiblement les idées suivent le même chemin.
+Le corps humain perd environ 500 ml d'eau par jour rien qu'en respirant. on dirait que t'en perds un peu plus niveau réflexion.
+Un algorithme de tri efficace classe les données en temps logarithmique. ton niveau de jeu, lui, ne fait clairement que descendre.
+Un algorithme de tri efficace classe les données en temps logarithmique. toi t'as plutôt une complexité qui empire à chaque tour.
+Un algorithme de tri efficace classe les données en temps logarithmique. même l'algorithme le plus lent te classerait mieux que ça.
+Un algorithme de tri efficace classe les données en temps logarithmique. ta progression, elle, va clairement dans le mauvais sens.
+La banane partage environ 60% de son ADN avec l'humain. c'est peut-être pour ça que t'as le melon mais pas le cerveau.
+La banane partage environ 60% de son ADN avec l'humain. les 40% restants ont dû emporter tout ton vocabulaire avec eux.
+La banane partage environ 60% de son ADN avec l'humain. à ce niveau de ressemblance-là, la banane jouerait presque aussi bien.
+La banane partage environ 60% de son ADN avec l'humain. faut croire que t'as hérité que de la partie fruit.
+Un ping élevé provoque du lag dans un jeu en ligne. chez toi ça s'appelle directement une coupure de réflexion.
+Un ping élevé provoque du lag dans un jeu en ligne. ton ping doit être proche de l'infini pour trouver un mot.
+Un ping élevé provoque du lag dans un jeu en ligne. même sans lag t'arriverais pas à répondre plus vite.
+Un ping élevé provoque du lag dans un jeu en ligne. ta connexion neurones-clavier semble sacrément instable.
+Le silicium est le deuxième élément le plus abondant de la croûte terrestre. ta motivation à trouver des mots, elle, est bien plus rare que ça.
+Le silicium est le deuxième élément le plus abondant de la croûte terrestre. il y en a plus dans le sol que de bonnes idées dans ta tête.
+Le silicium est le deuxième élément le plus abondant de la croûte terrestre. au moins lui il sert à quelque chose, contrairement à ta réponse.
+Le silicium est le deuxième élément le plus abondant de la croûte terrestre. on trouve plus facilement du silicium qu'un mot correct chez toi.
+La rétine humaine peut distinguer environ 10 millions de couleurs. elle voit toujours pas la solution pourtant juste devant toi.
+La rétine humaine peut distinguer environ 10 millions de couleurs. avec autant de couleurs tu devrais au moins voir où est le mot.
+La rétine humaine peut distinguer environ 10 millions de couleurs. dommage que ça marche pas aussi bien pour le vocabulaire.
+La rétine humaine peut distinguer environ 10 millions de couleurs. 10 millions de couleurs et toujours pas la couleur de la victoire.
+Un octet peut coder 256 valeurs différentes. t'as réussi l'exploit d'en éviter la quasi-totalité dans ta réponse.
+Un octet peut coder 256 valeurs différentes. 256 possibilités et t'as trouvé le seul mauvais résultat.
+Un octet peut coder 256 valeurs différentes. même au hasard t'aurais eu plus de chances avec ces 256 valeurs.
+Un octet peut coder 256 valeurs différentes. ta réponse ne rentre même pas dans cette fourchette de justesse.
+La caféine reste présente dans le sang jusqu'à 6 heures. ton excuse, elle, tient même pas six secondes.
+La caféine reste présente dans le sang jusqu'à 6 heures. elle dure plus longtemps que ta concentration sur cette partie.
+La caféine reste présente dans le sang jusqu'à 6 heures. même 6 heures de café ne sauveraient pas ta réflexion.
+La caféine reste présente dans le sang jusqu'à 6 heures. ton temps de bonne forme, lui, a dû expirer bien avant ça.
+Un flocon de neige n'a jamais exactement la même forme qu'un autre. tes défaites, elles, se ressemblent toutes étrangement.
+Un flocon de neige n'a jamais exactement la même forme qu'un autre. au moins lui il se renouvelle, contrairement à ton niveau de jeu.
+Un flocon de neige n'a jamais exactement la même forme qu'un autre. chaque flocon est unique, chacune de tes réponses est identique en nul.
+Un flocon de neige n'a jamais exactement la même forme qu'un autre. lui au moins il varie, toi tu perds toujours de la même façon.
+Le record du monde du 100m est de 9,58 secondes. toi t'as mis largement plus longtemps à taper trois lettres.
+Le record du monde du 100m est de 9,58 secondes. à ce rythme-là t'aurais pas fini la course avant la fin de la manche.
+Le record du monde du 100m est de 9,58 secondes. même en sprint tu serais plus lent que ta réflexion actuelle.
+Le record du monde du 100m est de 9,58 secondes. il aurait le temps de faire deux tours pendant que tu réfléchis.
+Un GPS utilise la relativité d'Einstein pour rester précis. toi t'as du mal avec l'addition la plus basique de lettres.
+Un GPS utilise la relativité d'Einstein pour rester précis. lui au moins il sait où il va, contrairement à toi ce round.
+Un GPS utilise la relativité d'Einstein pour rester précis. même avec Einstein en renfort tu trouverais pas ce mot.
+Un GPS utilise la relativité d'Einstein pour rester précis. ta précision à toi, elle, doit se compter en années-lumière d'erreur.
+La peau humaine se renouvelle entièrement tous les 27 jours environ. ton vocabulaire, lui, n'a clairement pas été mis à jour depuis un moment.
+La peau humaine se renouvelle entièrement tous les 27 jours environ. dommage que ton niveau de jeu se renouvelle pas aussi souvent.
+La peau humaine se renouvelle entièrement tous les 27 jours environ. 27 jours et ton cerveau, lui, semble figé depuis des années.
+La peau humaine se renouvelle entièrement tous les 27 jours environ. au moins elle elle se régénère, contrairement à tes bonnes idées.
+Un octet vide se remplit de zéros par défaut. c'est à peu près le niveau de ta dernière tentative.
+Un octet vide se remplit de zéros par défaut. toi aussi tu sembles fonctionner par défaut, à base de zéros.
+Un octet vide se remplit de zéros par défaut. même vide, un octet est plus prévisible que ta réponse.
+Un octet vide se remplit de zéros par défaut. ta réponse ressemble beaucoup à cette valeur par défaut.
+Le miel ne se périme jamais s'il est bien conservé. ton niveau de jeu, lui, a périmé depuis un bon moment.
+Le miel ne se périme jamais s'il est bien conservé. dommage que ta réflexion ait pas la même durée de conservation.
+Le miel ne se périme jamais s'il est bien conservé. au moins lui il tient dans le temps, contrairement à ta forme.
+Le miel ne se périme jamais s'il est bien conservé. ton vocabulaire, lui, a une date de péremption largement dépassée.
+Un octopus possède neuf cerveaux au total. toi t'en as visiblement zéro de disponible pour ce jeu.
+Un octopus possède neuf cerveaux au total. neuf cerveaux, et toujours plus efficace que le tien tout seul.
+Un octopus possède neuf cerveaux au total. même en partageant les neuf, t'aurais du mal à trouver un mot.
+Un octopus possède neuf cerveaux au total. il a de la ressource à revendre, toi t'en manques clairement.
+La foudre peut atteindre 30 000°C, soit cinq fois la surface du Soleil. ta réflexion, elle, reste plutôt tiède à côté de ça.
+La foudre peut atteindre 30 000°C, soit cinq fois la surface du Soleil. même à cette température-là ton cerveau resterait éteint.
+La foudre peut atteindre 30 000°C, soit cinq fois la surface du Soleil. elle est plus chaude que ta motivation à trouver un mot correct.
+La foudre peut atteindre 30 000°C, soit cinq fois la surface du Soleil. au moins elle elle frappe vite, toi tu traînes encore.
+Un pigeon peut reconnaître son propre reflet dans un miroir. toi t'as même pas encore reconnu ton propre niveau de jeu.
+Un pigeon peut reconnaître son propre reflet dans un miroir. lui au moins il se rend compte de la situation, pas toi.
+Un pigeon peut reconnaître son propre reflet dans un miroir. à ce niveau de lucidité-là, il jouerait sûrement mieux que toi.
+Un pigeon peut reconnaître son propre reflet dans un miroir. même un pigeon ferait un meilleur bilan de sa partie que toi.
+Le corps humain contient assez de fer pour fabriquer un petit clou. t'as dû en garder aucun pour la solidité de ton raisonnement.
+Le corps humain contient assez de fer pour fabriquer un petit clou. avec ça t'aurais au moins pu clouer une bonne idée quelque part.
+Le corps humain contient assez de fer pour fabriquer un petit clou. dommage que le fer serve pas à forger du vocabulaire.
+Le corps humain contient assez de fer pour fabriquer un petit clou. à ce niveau de rouille mentale, le clou tiendrait mieux que ta réponse.
+Une année sur Vénus dure moins longtemps qu'un jour sur Vénus. ta notion du temps à toi doit être encore plus tordue que ça.
+Une année sur Vénus dure moins longtemps qu'un jour sur Vénus. même avec un calendrier pareil tu serais toujours à la ramasse.
+Une année sur Vénus dure moins longtemps qu'un jour sur Vénus. ton temps de réflexion, lui, se compare à cette échelle-là.
+Une année sur Vénus dure moins longtemps qu'un jour sur Vénus. à ce niveau de décalage, autant dire que t'es hors du temps.
+Un octet représente la plus petite unité adressable en mémoire. ta contribution à cette partie est encore plus petite que ça.
+Un octet représente la plus petite unité adressable en mémoire. même la plus petite unité vaut plus que ta dernière réponse.
+Un octet représente la plus petite unité adressable en mémoire. toi t'arrives même pas à remplir cette unité minimale.
+Un octet représente la plus petite unité adressable en mémoire. ta mémoire à toi doit être encore plus limitée que ça.
+Le cerveau humain utilise environ 20% de l'énergie totale du corps. le tien doit fonctionner avec un pourcentage bien plus faible.
+Le cerveau humain utilise environ 20% de l'énergie totale du corps. à ce niveau de consommation-là, le tien tourne au ralenti.
+Le cerveau humain utilise environ 20% de l'énergie totale du corps. 20% d'énergie et toujours aucun résultat visible chez toi.
+Le cerveau humain utilise environ 20% de l'énergie totale du corps. on dirait que chez toi cette énergie part ailleurs qu'en idées.
+Un clic de souris standard dure environ 100 millisecondes. ton temps de réaction, lui, dépasse allègrement ce chiffre.
+Un clic de souris standard dure environ 100 millisecondes. même un clic est plus rapide que ta réflexion sur ce mot.
+Un clic de souris standard dure environ 100 millisecondes. 100 millisecondes, ta réponse à toi met carrément des heures.
+Un clic de souris standard dure environ 100 millisecondes. à cette vitesse-là ton clic arriverait toujours trop tard.
+La Terre est plus proche d'une sphère parfaite que la plupart des balles de billard. ta logique à toi est loin d'être aussi ronde que ça.
+La Terre est plus proche d'une sphère parfaite que la plupart des balles de billard. même une balle de billard rebondirait mieux que ton raisonnement.
+La Terre est plus proche d'une sphère parfaite que la plupart des balles de billard. elle est plus régulière que le niveau de tes réponses.
+La Terre est plus proche d'une sphère parfaite que la plupart des balles de billard. à ce niveau de perfection-là, ton jeu a encore du chemin à faire.
+Un requin existe depuis plus longtemps que les arbres. ton niveau de jeu, lui, semble tout aussi préhistorique.
+Un requin existe depuis plus longtemps que les arbres. même les requins d'origine trouveraient un mot plus vite que toi.
+Un requin existe depuis plus longtemps que les arbres. ta stratégie a l'air de dater d'avant les arbres, en effet.
+Un requin existe depuis plus longtemps que les arbres. à ce niveau d'ancienneté, ton vocabulaire aussi semble fossilisé.
+Le premier ordinateur personnel pesait plus de 10 kg. ton niveau de jeu, lui, traîne un poids mort équivalent.
+Le premier ordinateur personnel pesait plus de 10 kg. même cette machine trouvait sûrement des mots plus vite que toi.
+Le premier ordinateur personnel pesait plus de 10 kg. ta réflexion semble aussi lourde et lente que cette machine.
+Le premier ordinateur personnel pesait plus de 10 kg. à 10 kg près, ton cerveau semble tout aussi difficile à démarrer.
+Une empreinte digitale se forme dès le troisième mois de grossesse. ton vocabulaire, lui, semble pas encore avoir fini de se former.
+Une empreinte digitale se forme dès le troisième mois de grossesse. à ce stade-là il devrait déjà être plus développé que le tien.
+Une empreinte digitale se forme dès le troisième mois de grossesse. même à ce stade précoce y'avait déjà plus de promesse que chez toi.
+Une empreinte digitale se forme dès le troisième mois de grossesse. ton niveau de jeu a l'air d'être resté à ce même stade depuis.
